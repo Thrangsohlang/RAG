@@ -12,7 +12,7 @@ Additionally, we use streamlit to create a webapp for UI to simplify the user ex
 
 ## Try It!
 Just clone the repo and install all the requirements.
-Then, in you python terminal run ```streamlit run app.py```.\n
+Then, in you python terminal run ```streamlit run app.py```.
 
 ### ENJOY!!!
   
