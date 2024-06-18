@@ -10,9 +10,9 @@ Additionally, we use streamlit to create a webapp for UI to simplify the user ex
 * pypdf
 * streamlit
 
-  ## Try It!
-  Just clone the repo and install all the requirements.
-  Then, in you python terminal run ```streamlit run app.py```.\n
+## Try It!
+Just clone the repo and install all the requirements.
+Then, in you python terminal run ```streamlit run app.py```.\n
 
-  ### ENJOY!!!
+### ENJOY!!!
   
